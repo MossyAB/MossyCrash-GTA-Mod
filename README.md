@@ -1,6 +1,7 @@
 # MossyCrash
 
-Mod In Use! **COMING SOON**
+This Mod Is No Longer Being Supported.
+This Was A 1 Time Developed Mod And Was Fully Working At Time Of The Upload.
 
 **Requirements**
  - Script Hook V (*https://www.gta5-mods.com/tools/script-hook-v*)
